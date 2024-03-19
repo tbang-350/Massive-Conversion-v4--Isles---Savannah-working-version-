@@ -1,0 +1,116 @@
+.day-16 {
+  height: 37px;
+}
+.day-16,
+.day-27,
+.day-311,
+.day-312 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.day-313,
+.day-314 {
+  position: relative;
+}
+.day-314 {
+  display: inline-block;
+  max-width: 100%;
+}
+.arc-segment {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-50xl);
+  max-width: 100%;
+}
+.day-17 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-1-arusha-to-serengeti-na-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.arc-segment-parent,
+.day-inner10 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.arc-segment-parent {
+  width: 1476px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-100xl);
+}
+.day-inner10 {
+  width: 1690px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-55xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-18xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+@media screen and (max-width: 1250px) {
+  .arc-segment {
+    gap: 34px 69px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .day-16,
+  .day-27,
+  .day-311,
+  .day-312,
+  .day-313,
+  .day-314 {
+    font-size: var(--font-size-11xl);
+  }
+  .arc-segment {
+    gap: 17px 69px;
+  }
+  .day-17 {
+    font-size: var(--font-size-21xl);
+  }
+  .arc-segment-parent {
+    gap: 59px 119px;
+  }
+  .day-inner10 {
+    padding-bottom: var(--padding-29xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .day-16,
+  .day-27,
+  .day-311,
+  .day-312,
+  .day-313,
+  .day-314 {
+    font-size: var(--font-size-3xl);
+  }
+  .day-17 {
+    font-size: var(--font-size-11xl);
+  }
+  .arc-segment-parent {
+    gap: 30px 119px;
+  }
+  .day-inner10 {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+}

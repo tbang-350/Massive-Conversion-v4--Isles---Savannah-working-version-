@@ -1,0 +1,17 @@
+.navbar-section-wrapper {
+  align-self: stretch;
+  height: 397px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-272xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+@media screen and (max-width: 450px) {
+  .navbar-section-wrapper {
+    padding-bottom: var(--padding-170xl);
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,1045 @@
+.path-20-icon6 {
+  height: 2435.9px;
+  width: 1732.4px;
+  position: absolute;
+  margin: 0 !important;
+  top: -1344px;
+  left: -346.7px;
+}
+.frame-child84 {
+  width: 1688.7px;
+  height: 1682.1px;
+  position: relative;
+  border-radius: var(--br-15xl);
+  background-color: var(--color-white);
+  border: 12px solid var(--color-blanchedalmond-100);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.included5 {
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.included-wrapper1 {
+  width: 227.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 1.2000000000007276px;
+  box-sizing: border-box;
+}
+.frame-child85 {
+  height: 71.1px;
+  width: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.accommodation5 {
+  align-self: stretch;
+  position: relative;
+  z-index: 1;
+}
+.content-holder {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-4xl) 0 0;
+  box-sizing: border-box;
+  min-width: 211px;
+}
+.content-holder,
+.frame-parent89,
+.path-elements {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent89 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 43.60000000000037px;
+}
+.path-elements {
+  width: 438.8px;
+  flex-direction: column;
+  padding: 14.899999999999636px 0 0;
+  box-sizing: border-box;
+}
+.frame-child86 {
+  height: 71.1px;
+  width: 71.1px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.all-meals-included5,
+.lunch-dinner5 {
+  margin: 0;
+  text-transform: capitalize;
+}
+.mineral-water11 {
+  text-transform: capitalize;
+}
+.mineral-water10 {
+  margin: 0;
+}
+.all-meals-included-container5 {
+  align-self: stretch;
+  height: 164.9px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.button-elements {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs-5) 0 0;
+  box-sizing: border-box;
+  min-width: 419px;
+  max-width: 100%;
+}
+.frame-parent90,
+.path-elements-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent90 {
+  width: 772.8px;
+  justify-content: flex-start;
+  gap: 56.89999999999963px;
+  min-width: 772.7999999999993px;
+  max-width: 100%;
+}
+.path-elements-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.frame-parent88,
+.frame-wrapper46 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent88 {
+  flex: 1;
+  flex-direction: column;
+  gap: 44.80000000000018px;
+}
+.frame-wrapper46 {
+  width: 1573.6px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs) 0 1.6000000000003638px;
+  box-sizing: border-box;
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-child87 {
+  height: 71.1px;
+  width: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.ground-transportation5 {
+  margin: 0;
+}
+.in-robust5 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.ground-transportation-in-container5 {
+  flex: 1;
+  position: relative;
+  line-height: 39.2px;
+  display: inline-block;
+  min-width: 341px;
+  min-height: 82.5px;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-parent92 {
+  width: 639.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 43.60000000000037px;
+  max-width: 100%;
+}
+.caption-container-child,
+.round-trip-airport-transfer5 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.caption-container-child {
+  height: 71.1px;
+  width: 71.1px;
+}
+.round-trip-airport-transfer5 {
+  align-self: stretch;
+  text-transform: capitalize;
+}
+.icon-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) 0 0;
+  box-sizing: border-box;
+  min-width: 367px;
+  max-width: 100%;
+}
+.caption-container {
+  width: 692.8px;
+  justify-content: flex-start;
+  gap: 56.89999999999963px;
+}
+.caption-container,
+.frame-parent91,
+.image-container-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent91 {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.image-container-inner {
+  width: 1493.6px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 1.6000000000003638px;
+  box-sizing: border-box;
+}
+.frame-child88 {
+  width: 71.1px;
+  height: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.frame-wrapper48 {
+  height: 73.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs-5) 0 0;
+  box-sizing: border-box;
+}
+.english-speaking-guide6,
+.knowledgeable-and-fluent5 {
+  margin: 0;
+}
+.knowledgeable-and-fluent-container5 {
+  flex: 1;
+  position: relative;
+  line-height: 39.2px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 352px;
+  min-height: 82.5px;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-parent95,
+.frame-wrapper47 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent95 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 45.20000000000073px;
+}
+.frame-wrapper47 {
+  width: 657.2px;
+  flex-direction: column;
+  padding: var(--padding-10xs-5) 0 0;
+  box-sizing: border-box;
+}
+.frame-child89 {
+  height: 71.1px;
+  width: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.fees3,
+.full-coverage-of5 {
+  margin: 0;
+}
+.full-coverage-of-container10 {
+  height: 82.5px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 403px;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-parent94,
+.frame-parent96 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent96 {
+  width: 748.1px;
+  justify-content: flex-start;
+  gap: 56.89999999999963px;
+}
+.frame-parent94 {
+  width: 1547.3px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.description-parent-child {
+  width: 71.1px;
+  height: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.description-parent {
+  height: 73.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs-5) 0 0;
+  box-sizing: border-box;
+}
+.professional-english-speaking11,
+.safari-cook5 {
+  margin: 0;
+}
+.professional-english-speaking10 {
+  align-self: stretch;
+  height: 82.5px;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.background {
+  width: 639.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.serengeti-park-child {
+  width: 71.1px;
+  height: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.serengeti-park1 {
+  height: 76.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.399999999999636px 8.299999999999272px 0 0;
+  box-sizing: border-box;
+}
+.camping-equipment-tents5,
+.sleeping-matschairs-tables5 {
+  margin: 0;
+}
+.full-coverage-of-container11 {
+  align-self: stretch;
+  position: relative;
+  line-height: 39.2px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-height: 82.5px;
+  z-index: 1;
+}
+.full-coverage-of-national-par-frame {
+  width: 672.9px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.399999999999636px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.description-parent-parent {
+  flex: 1;
+  flex-direction: row;
+  gap: 43.60000000000037px;
+}
+.description-parent-parent,
+.frame-parent93,
+.frame-wrapper49,
+.image-container1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper49 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 1.6000000000003638px;
+  box-sizing: border-box;
+}
+.frame-parent93,
+.image-container1 {
+  flex-direction: column;
+}
+.frame-parent93 {
+  align-self: stretch;
+  gap: 76.60000000000036px;
+}
+.image-container1 {
+  width: 1595.1px;
+  padding: 0 0 107.79999999999929px;
+  box-sizing: border-box;
+  gap: var(--gap-51xl);
+}
+.excluded5 {
+  width: 234.2px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.path-22-icon25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.1px;
+  height: 71.1px;
+}
+.serengeti-national-park-day1 {
+  position: absolute;
+  top: 32.7px;
+  left: 16.7px;
+  background-color: var(--color-darkorange);
+  width: 38.5px;
+  height: 5.8px;
+  z-index: 1;
+}
+.arusha-to-serengeti-day1 {
+  height: 71.1px;
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.arusha-to-serengeti-day-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0.59;
+  z-index: 1;
+}
+.prepare-for-exploration-inner {
+  width: 71.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 13.899999999999636px 0 0;
+  box-sizing: border-box;
+}
+.flights-to-and3,
+.international-airfare3,
+.not-included-optional3 {
+  margin: 0;
+}
+.international-airfare-flight-container5 {
+  flex: 1;
+  position: relative;
+  line-height: 39.2px;
+  display: inline-block;
+  min-width: 859px;
+  min-height: 123.7px;
+  max-width: 100%;
+  z-index: 1;
+}
+.prepare-for-exploration {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 45.29999999999927px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  max-width: 100%;
+}
+.full-day-expedition1,
+.prepare-for-exploration-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.prepare-for-exploration-wrapper {
+  flex-direction: row;
+  padding: 0 0 0 1.1000000000003638px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  font-size: var(--font-size-20xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.full-day-expedition1 {
+  flex-direction: column;
+  gap: 58.900000000000546px;
+  font-size: var(--font-size-19xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.path-22-icon26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.1px;
+  height: 71.1px;
+}
+.souvenirs-and-additional-purch {
+  position: absolute;
+  top: 32.6px;
+  left: 16.7px;
+  background-color: var(--color-darkorange);
+  width: 38.5px;
+  height: 5.8px;
+  z-index: 1;
+}
+.travel-insurance1 {
+  height: 71.1px;
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.travel-insurance-wrapper {
+  width: 71.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0.59;
+  z-index: 1;
+}
+.alcoholic-beverages-and5 {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.alcoholic-beverages-and-soft-d-wrapper1,
+.end-of-trip,
+.frame-parent97 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.alcoholic-beverages-and-soft-d-wrapper1 {
+  flex: 1;
+  flex-direction: column;
+  padding: 20.600000000000364px 0 0;
+  box-sizing: border-box;
+  min-width: 473px;
+}
+.end-of-trip,
+.frame-parent97 {
+  flex-direction: row;
+}
+.frame-parent97 {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: 45.29999999999927px;
+}
+.end-of-trip {
+  width: 846.7px;
+  padding: 0 var(--padding-12xs) 5.900000000000546px 1.1000000000003638px;
+  box-sizing: border-box;
+}
+.path-22-icon27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.1px;
+  height: 71.1px;
+}
+.end-with-insurance-and-sleepin {
+  position: absolute;
+  top: 32.7px;
+  left: 16.7px;
+  background-color: var(--color-darkorange);
+  width: 38.5px;
+  height: 5.8px;
+  z-index: 1;
+}
+.sleeping-bags {
+  height: 71.1px;
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.gratuities-tips4,
+.sleeping-bags-wrapper {
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.sleeping-bags-wrapper {
+  width: 71.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0.59;
+}
+.gratuities-tips4 {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.gratuities-tips-wrapper2,
+.travel-components {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gratuities-tips-wrapper2 {
+  flex: 1;
+  flex-direction: column;
+  padding: 6.899999999999636px 0 0;
+  box-sizing: border-box;
+  min-width: 209px;
+}
+.travel-components {
+  width: 437.2px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 45.29999999999927px;
+}
+.frame-child90,
+.path-22-icon28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.1px;
+  height: 71.1px;
+}
+.frame-child90 {
+  top: 32.7px;
+  left: 16.7px;
+  background-color: var(--color-darkorange);
+  width: 38.5px;
+  height: 5.8px;
+  z-index: 1;
+}
+.path-22-parent18 {
+  height: 71.1px;
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.funds-for-personal-use-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0.59;
+  z-index: 1;
+}
+.frame-child91,
+.path-22-icon29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.1px;
+  height: 71.1px;
+}
+.frame-child91 {
+  top: 32.7px;
+  left: 16.7px;
+  background-color: var(--color-darkorange);
+  width: 38.5px;
+  height: 5.8px;
+  z-index: 1;
+}
+.path-22-parent19 {
+  height: 71.1px;
+  flex: 1;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.funds-for-personal-use,
+.funds-for-personal-use-child {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.funds-for-personal-use-child {
+  align-self: stretch;
+  flex-direction: row;
+  opacity: 0.59;
+  z-index: 1;
+}
+.funds-for-personal-use {
+  width: 71.1px;
+  flex-direction: column;
+  gap: 38.599999999999454px;
+}
+.personal-funds-for5 {
+  margin: 0;
+}
+.personal-funds-for-container5,
+.travel-insurance-sleeping6 {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.personal-funds-for-container5 {
+  align-self: stretch;
+  height: 82.5px;
+}
+.travel-insurance-sleeping6 {
+  width: 647.3px;
+}
+.personal-funds-for-souvenirs-a-group {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-15xl-5);
+  flex-shrink: 0;
+}
+.additional-purchases,
+.additional-purchases-inner,
+.personal-funds-for-souvenirs-a-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.additional-purchases-inner {
+  flex: 1;
+  flex-direction: column;
+  padding: 9.899999999999636px 0 0;
+  box-sizing: border-box;
+  min-width: 733px;
+}
+.additional-purchases {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 45.29999999999927px;
+}
+.national-park-days {
+  flex: 1;
+  flex-direction: column;
+  gap: 61.89999999999963px;
+}
+.first-leg-of-journey,
+.full-day-expedition-group,
+.national-park-days {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.first-leg-of-journey {
+  width: 1245.8px;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs) 0 1.1000000000003638px;
+  box-sizing: border-box;
+}
+.full-day-expedition-group {
+  flex: 1;
+  flex-direction: column;
+  gap: 51.69999999999982px;
+}
+.serengeti-nat-park {
+  width: 1477.9px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 19.700000000000728px;
+  box-sizing: border-box;
+}
+.arusha-to-serengeti-day,
+.rectangle-parent29,
+.serengeti-nat-park,
+.serengeti-national-park-day {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent29 {
+  flex: 1;
+  border-radius: var(--br-15xl);
+  background-color: var(--color-white);
+  border: 12px solid var(--color-blanchedalmond-100);
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: var(--padding-66xl-5) var(--padding-mini) 68.19999999999982px
+    var(--padding-36xl);
+  gap: 24.600000000000364px;
+  z-index: 1;
+}
+.arusha-to-serengeti-day,
+.serengeti-national-park-day {
+  flex-direction: row;
+}
+.serengeti-national-park-day {
+  flex: 1;
+  position: relative;
+}
+.arusha-to-serengeti-day {
+  width: 1712.7px;
+  padding: 0 var(--padding-xs) 121.89999999999964px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-20xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+@media screen and (max-width: 1800px) {
+  .frame-parent90 {
+    flex: 1;
+  }
+  .description-parent-parent,
+  .frame-parent91,
+  .frame-parent94,
+  .path-elements-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1350px) {
+  .additional-purchases-inner,
+  .frame-parent90,
+  .international-airfare-flight-container5 {
+    min-width: 100%;
+  }
+  .rectangle-parent29 {
+    padding-left: var(--padding-8xl);
+    padding-top: var(--padding-37xl);
+    padding-bottom: var(--padding-25xl);
+    box-sizing: border-box;
+  }
+  .arusha-to-serengeti-day {
+    padding-bottom: var(--padding-60xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .accommodation5,
+  .included5 {
+    font-size: var(--font-size-12xl);
+  }
+  .frame-parent89 {
+    flex-wrap: wrap;
+  }
+  .all-meals-included-container5 {
+    font-size: var(--font-size-12xl);
+  }
+  .button-elements {
+    min-width: 100%;
+  }
+  .frame-parent90 {
+    flex-wrap: wrap;
+  }
+  .frame-parent88 {
+    gap: 22px 44.8px;
+  }
+  .ground-transportation-in-container5 {
+    font-size: var(--font-size-12xl);
+    min-width: 100%;
+  }
+  .frame-parent92 {
+    flex-wrap: wrap;
+    gap: 43.6px 22px;
+  }
+  .round-trip-airport-transfer5 {
+    font-size: var(--font-size-12xl);
+  }
+  .icon-parent {
+    min-width: 100%;
+  }
+  .caption-container {
+    flex-wrap: wrap;
+    gap: 56.9px 28px;
+  }
+  .knowledgeable-and-fluent-container5 {
+    font-size: var(--font-size-12xl);
+    min-width: 100%;
+  }
+  .frame-parent95 {
+    flex-wrap: wrap;
+    gap: 45.2px 23px;
+  }
+  .full-coverage-of-container10 {
+    font-size: var(--font-size-12xl);
+    min-width: 100%;
+  }
+  .frame-parent96 {
+    flex-wrap: wrap;
+    gap: 56.9px 28px;
+  }
+  .full-coverage-of-container11,
+  .professional-english-speaking10 {
+    font-size: var(--font-size-12xl);
+  }
+  .description-parent-parent {
+    gap: 43.6px 22px;
+  }
+  .frame-parent93 {
+    gap: 38px 76.6px;
+  }
+  .image-container1 {
+    gap: 35px 70px;
+    padding-bottom: var(--padding-51xl);
+    box-sizing: border-box;
+  }
+  .excluded5 {
+    font-size: var(--font-size-11xl);
+  }
+  .international-airfare-flight-container5 {
+    font-size: var(--font-size-12xl);
+  }
+  .prepare-for-exploration {
+    gap: var(--gap-4xl);
+  }
+  .full-day-expedition1 {
+    gap: 29px 58.9px;
+  }
+  .alcoholic-beverages-and5 {
+    font-size: var(--font-size-12xl);
+  }
+  .alcoholic-beverages-and-soft-d-wrapper1 {
+    min-width: 100%;
+  }
+  .gratuities-tips4,
+  .personal-funds-for-container5,
+  .travel-insurance-sleeping6 {
+    font-size: var(--font-size-12xl);
+  }
+  .personal-funds-for-souvenirs-a-group {
+    gap: 17px 34.5px;
+  }
+  .additional-purchases {
+    gap: var(--gap-4xl);
+  }
+  .national-park-days {
+    gap: 31px 61.9px;
+  }
+  .full-day-expedition-group {
+    gap: 26px 51.7px;
+  }
+  .rectangle-parent29 {
+    padding-top: var(--padding-17xl);
+    padding-bottom: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .arusha-to-serengeti-day {
+    padding-bottom: var(--padding-32xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .accommodation5,
+  .included5 {
+    font-size: var(--font-size-4xl);
+  }
+  .frame-parent89 {
+    gap: 43.6px 22px;
+  }
+  .all-meals-included-container5 {
+    font-size: var(--font-size-4xl);
+  }
+  .frame-parent90 {
+    gap: 56.9px 28px;
+  }
+  .full-coverage-of-container10,
+  .full-coverage-of-container11,
+  .ground-transportation-in-container5,
+  .knowledgeable-and-fluent-container5,
+  .professional-english-speaking10,
+  .round-trip-airport-transfer5 {
+    font-size: var(--font-size-4xl);
+  }
+  .frame-parent93 {
+    gap: 19px 76.6px;
+  }
+  .image-container1 {
+    gap: 17px 70px;
+  }
+  .alcoholic-beverages-and5,
+  .excluded5,
+  .international-airfare-flight-container5 {
+    font-size: var(--font-size-4xl);
+  }
+  .frame-parent97 {
+    gap: var(--gap-4xl);
+  }
+  .gratuities-tips4 {
+    font-size: var(--font-size-4xl);
+  }
+  .travel-components {
+    gap: var(--gap-4xl);
+  }
+  .personal-funds-for-container5,
+  .travel-insurance-sleeping6 {
+    font-size: var(--font-size-4xl);
+  }
+  .national-park-days {
+    gap: 15px 61.9px;
+  }
+  .rectangle-parent29 {
+    padding-top: var(--padding-4xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .arusha-to-serengeti-day {
+    padding-bottom: var(--padding-14xl);
+    box-sizing: border-box;
+  }
+}

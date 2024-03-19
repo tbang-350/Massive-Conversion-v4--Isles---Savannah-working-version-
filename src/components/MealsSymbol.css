@@ -1,0 +1,167 @@
+.included1 {
+  width: 245.1px;
+  height: 82.5px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+  z-index: 1;
+}
+.accommodation1,
+.frame-child51 {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.frame-child51 {
+  height: 71.1px;
+  width: 71.1px;
+}
+.accommodation1 {
+  align-self: stretch;
+  height: 82.5px;
+  display: inline-block;
+}
+.breakfast-symbol {
+  flex: 1;
+  flex-direction: column;
+  padding: 20.600000000000364px 0 0;
+  box-sizing: border-box;
+  min-width: 211px;
+}
+.breakfast-symbol,
+.frame-parent43,
+.tent-icon {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent43 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-24xl-5);
+}
+.tent-icon {
+  width: 438.7px;
+  flex-direction: column;
+  padding: 13.399999999999636px 0 0;
+  box-sizing: border-box;
+  min-width: 438.6999999999971px;
+}
+.frame-child52 {
+  height: 71.1px;
+  width: 71.1px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.all-meals-included1,
+.lunch-dinner1 {
+  margin: 0;
+  text-transform: capitalize;
+}
+.mineral-water3 {
+  text-transform: capitalize;
+}
+.mineral-water2 {
+  margin: 0;
+}
+.all-meals-included-container1 {
+  align-self: stretch;
+  height: 256.4px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.embark-on-a-day-of-exclusive-s {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 419px;
+  max-width: 100%;
+}
+.frame-parent44 {
+  width: 787.8px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 71.90000000000146px;
+  min-width: 787.7999999999993px;
+}
+.frame-parent44,
+.meals-symbol,
+.tent-icon-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.tent-icon-parent {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  margin-top: -6.5px;
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.meals-symbol {
+  position: absolute;
+  top: 97px;
+  left: 68px;
+  width: 1570.8px;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-18xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1525px) {
+  .frame-parent44,
+  .tent-icon {
+    flex: 1;
+  }
+  .tent-icon-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 850px) {
+  .accommodation1,
+  .included1 {
+    font-size: var(--font-size-11xl);
+  }
+  .tent-icon {
+    min-width: 100%;
+  }
+  .all-meals-included-container1 {
+    font-size: var(--font-size-11xl);
+  }
+  .frame-parent44 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .accommodation1,
+  .included1 {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent43 {
+    flex-wrap: wrap;
+  }
+  .all-meals-included-container1 {
+    font-size: var(--font-size-3xl);
+  }
+  .embark-on-a-day-of-exclusive-s {
+    min-width: 100%;
+  }
+}

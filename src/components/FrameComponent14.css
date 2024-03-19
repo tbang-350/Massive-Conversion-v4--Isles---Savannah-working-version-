@@ -1,0 +1,122 @@
+.output-validator-child {
+  height: 71.1px;
+  width: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.english-speaking-guide5,
+.knowledgeable-and-fluent4 {
+  margin: 0;
+}
+.knowledgeable-and-fluent-container4 {
+  flex: 1;
+  position: relative;
+  line-height: 37.6px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 352px;
+  min-height: 82.5px;
+  max-width: 100%;
+  z-index: 1;
+}
+.output-validator {
+  width: 658px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+  max-width: 100%;
+}
+.frame-child81 {
+  width: 71.1px;
+  height: 71.1px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.frame-wrapper44 {
+  height: 77.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.amref-throughout-the1,
+.fees-flying-doctors1,
+.full-coverage-of4 {
+  margin: 0;
+}
+.full-coverage-of-container8 {
+  height: 123.7px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 420px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.frame-parent86,
+.output-validator-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent86 {
+  width: 772.6px;
+  justify-content: flex-start;
+  gap: 55.900000000001455px;
+  min-width: 772.5999999999985px;
+}
+.output-validator-parent {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 0 var(--padding-8xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-18xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+@media screen and (max-width: 1550px) {
+  .frame-parent86 {
+    flex: 1;
+  }
+  .output-validator-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1250px) {
+  .frame-parent86 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 825px) {
+  .knowledgeable-and-fluent-container4 {
+    font-size: var(--font-size-11xl);
+    min-width: 100%;
+  }
+  .output-validator {
+    flex-wrap: wrap;
+  }
+  .full-coverage-of-container8 {
+    font-size: var(--font-size-11xl);
+    min-width: 100%;
+  }
+  .frame-parent86 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .full-coverage-of-container8,
+  .knowledgeable-and-fluent-container4 {
+    font-size: var(--font-size-3xl);
+  }
+}

@@ -1,0 +1,523 @@
+.back-icon4 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 100px;
+  object-fit: cover;
+}
+.back4 {
+  position: absolute;
+  top: 33px;
+  left: 79px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 133px;
+  height: 44px;
+  z-index: 1;
+}
+.back-parent2 {
+  width: 212px;
+  height: 100px;
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.day-serengeti-camping2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.day-serengeti-camping-tour-wrapper1,
+.main-f-r-a-m-e {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.day-serengeti-camping-tour-wrapper1 {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-xs);
+  font-size: var(--font-size-81xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-heavy);
+}
+.main-f-r-a-m-e {
+  height: 279px;
+  flex-direction: column;
+  gap: var(--gap-mid);
+  max-width: 100%;
+  font-family: var(--font-nexa-black);
+}
+.take-it-easy {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.embark-on-an-container1 {
+  height: 361px;
+  flex: 1;
+  position: relative;
+  line-height: 50px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.embark-on-an-exclusive-private-container {
+  width: 1099px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xl) var(--padding-12xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+}
+.itinerary3 {
+  position: relative;
+}
+.journey-summary {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-lg);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.convenient-pickup-and-briefing {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-30xl);
+}
+.day-1-container {
+  width: 610px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.sail-to-menai-bay-conservation {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-30xl);
+}
+.day-2-container1 {
+  align-self: stretch;
+  position: relative;
+}
+.kwale-island-and-seafood-platt {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-30xl);
+}
+.day-3-container3 {
+  width: 643px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.journey-summary-parent,
+.three-day-trip-itinerary {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.journey-summary-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-34xl);
+}
+.three-day-trip-itinerary {
+  width: 738px;
+  flex-direction: row;
+  padding: 0 var(--padding-mini) 158px;
+  box-sizing: border-box;
+  font-size: var(--font-size-18xl);
+  color: var(--color-dimgray-200);
+}
+.convenient-pickup-and-briefing1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-48xl);
+}
+.day-1-container1 {
+  width: 1023px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  max-width: 100%;
+}
+.early-breakfast {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-12xs) 71px 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.safariblue-child {
+  margin-left: -236px;
+  margin-bottom: 93.89999999999964px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 127%;
+  flex-shrink: 0;
+}
+.full-day-expedition-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1658px;
+  height: 559px;
+}
+.start-your-adventure4 {
+  position: absolute;
+  top: 111px;
+  left: 117px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1423px;
+  height: 510.8px;
+  z-index: 1;
+}
+.full-day-expedition {
+  align-self: stretch;
+  height: 621.8px;
+  position: relative;
+}
+.sail-to-menai-bay-conservation1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-48xl);
+}
+.day-2-container2 {
+  position: relative;
+  text-transform: uppercase;
+}
+.serengeti-park {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.arusha-to-serengeti,
+.full-day-expedition-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.full-day-expedition-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 29.200000000000728px;
+}
+.arusha-to-serengeti {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-31xl) var(--padding-54xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.safariblue-item {
+  margin-left: -276px;
+  margin-bottom: 85.89999999999964px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 127%;
+  flex-shrink: 0;
+}
+.kwale-island-and-seafood-platt1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-48xl);
+}
+.day-3-container4 {
+  position: absolute;
+  top: 954px;
+  left: 291px;
+  text-transform: uppercase;
+}
+.full-day-wildlife {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 1658px;
+  height: 866px;
+}
+.embark-on-a,
+.menai-bay-conservation {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.menai-bay-conservation {
+  text-decoration: underline;
+}
+.dolphin-watching-witness-play1,
+.sandbanks-relax-on-pristine-s,
+.snorkeling-dive-into-crystal- {
+  margin-bottom: 0;
+}
+.dolphin-watching-witness-play {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-30xl);
+}
+.prepare-for-a-container {
+  position: absolute;
+  top: 110px;
+  left: 109px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1423px;
+  height: 994.9px;
+  z-index: 1;
+}
+.prepare-for-tour {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.ngorongoro-crater {
+  height: 1104.9px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.ngorongoro-crater-wrapper {
+  width: 1706px;
+  height: 1058px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.safariblue-inner {
+  margin-left: -236px;
+  margin-bottom: 78.89999999999964px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 127%;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.day-trip-details {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1658px;
+  height: 444.5px;
+}
+.set-off-on11 {
+  position: absolute;
+  top: 66.5px;
+  left: 117px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1423px;
+  height: 406.5px;
+  z-index: 1;
+}
+.serengeti-itinerary-detail {
+  height: 473px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.safariblue,
+.set-off-on-expedition {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.set-off-on-expedition {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-31xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.safariblue {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: var(--padding-20xl) var(--padding-62xl) 323px;
+  min-height: 7446px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-nexa-light);
+}
+@media screen and (max-width: 1350px) {
+  .arusha-to-serengeti,
+  .safariblue,
+  .set-off-on-expedition {
+    padding-left: var(--padding-6xl);
+    padding-right: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+  .safariblue {
+    padding-left: var(--padding-21xl);
+    padding-right: var(--padding-21xl);
+  }
+}
+@media screen and (max-width: 900px) {
+  .back4 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-serengeti-camping2 {
+    font-size: var(--font-size-31xl);
+  }
+  .embark-on-an-container1 {
+    font-size: var(--font-size-7xl);
+    line-height: 40px;
+  }
+  .itinerary3 {
+    font-size: var(--font-size-21xl);
+  }
+  .day-1-container,
+  .day-2-container1,
+  .day-3-container3 {
+    font-size: var(--font-size-11xl);
+  }
+  .journey-summary-parent {
+    gap: 26px 53px;
+  }
+  .three-day-trip-itinerary {
+    padding-bottom: 103px;
+    box-sizing: border-box;
+  }
+  .day-1-container1 {
+    font-size: var(--font-size-21xl);
+  }
+  .start-your-adventure4 {
+    font-size: var(--font-size-11xl);
+    line-height: 51px;
+  }
+  .day-2-container2 {
+    font-size: var(--font-size-21xl);
+  }
+  .arusha-to-serengeti {
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .day-3-container4 {
+    font-size: var(--font-size-21xl);
+  }
+  .prepare-for-a-container,
+  .set-off-on11 {
+    font-size: var(--font-size-11xl);
+    line-height: 51px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .back4 {
+    font-size: var(--font-size-4xl);
+  }
+  .day-serengeti-camping2 {
+    font-size: var(--font-size-11xl);
+  }
+  .embark-on-an-container1 {
+    font-size: var(--font-size-lgi);
+    line-height: 30px;
+  }
+  .itinerary3 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-1-container,
+  .day-2-container1,
+  .day-3-container3 {
+    font-size: var(--font-size-3xl);
+  }
+  .day-1-container1 {
+    font-size: var(--font-size-11xl);
+  }
+  .start-your-adventure4 {
+    font-size: var(--font-size-3xl);
+    line-height: 38px;
+  }
+  .day-2-container2 {
+    font-size: var(--font-size-11xl);
+  }
+  .arusha-to-serengeti {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .day-3-container4 {
+    font-size: var(--font-size-11xl);
+  }
+  .prepare-for-a-container,
+  .set-off-on11 {
+    font-size: var(--font-size-3xl);
+    line-height: 38px;
+  }
+}

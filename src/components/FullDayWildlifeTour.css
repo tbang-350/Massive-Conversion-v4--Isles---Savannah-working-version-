@@ -1,0 +1,243 @@
+.frame-child53 {
+  width: 71.1px;
+  height: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.frame-wrapper17 {
+  height: 73.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs-5) 0 0;
+  box-sizing: border-box;
+}
+.english-speaking-guide2,
+.knowledgeable-and-fluent1 {
+  margin: 0;
+}
+.knowledgeable-and-fluent-container1 {
+  height: 164.9px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 352px;
+  max-width: 100%;
+  z-index: 2;
+}
+.frame-parent46 {
+  width: 657.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 45.20000000000073px;
+  min-width: 657.2000000000007px;
+  max-width: 100%;
+}
+.frame-child54 {
+  height: 71.1px;
+  width: 71.1px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.fees1,
+.full-coverage-of1 {
+  margin: 0;
+}
+.full-coverage-of-container2 {
+  height: 123.7px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 403px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.frame-parent47 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 72.30000000000291px;
+  max-width: 100%;
+}
+.embark-on-adventure,
+.frame-parent45 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.embark-on-adventure {
+  width: 763.5px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-10xs-5) 0 0;
+  min-width: 763.5px;
+}
+.frame-parent45 {
+  width: 1567.7px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-xl);
+}
+.frame-child55 {
+  height: 71.1px;
+  width: 71.1px;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.professional-english-speaking3,
+.safari-cook1 {
+  margin: 0;
+}
+.professional-english-speaking2 {
+  align-self: stretch;
+  height: 123.7px;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 3;
+}
+.frame-parent48,
+.professional-english-speaking-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.professional-english-speaking-container {
+  flex: 1;
+  flex-direction: column;
+  padding: 2.899999999999636px 0 0;
+  box-sizing: border-box;
+  min-width: 410px;
+}
+.frame-parent48 {
+  width: 740.4px;
+  flex-direction: row;
+  gap: var(--gap-19xl-5);
+}
+.frame-child56 {
+  width: 71.1px;
+  height: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.prepare-for-journey-inner {
+  height: 74.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-11xl) 0 0;
+  box-sizing: border-box;
+}
+.camping-equipment-tents1,
+.sleeping-matschairs-tables1 {
+  margin: 0;
+}
+.full-coverage-of-container3 {
+  height: 123.7px;
+  width: 672.9px;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.prepare-for-journey {
+  flex-direction: row;
+  gap: 42.20000000000073px;
+}
+.destination-point,
+.full-day-wildlife-tour,
+.prepare-for-journey {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.destination-point {
+  flex-direction: row;
+  padding: 0 0 0 1.6000000000021828px;
+  box-sizing: border-box;
+  margin-top: -3.4px;
+}
+.full-day-wildlife-tour {
+  position: absolute;
+  top: 519.5px;
+  left: 66.8px;
+  flex-direction: column;
+  text-align: left;
+  font-size: var(--font-size-18xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+@media screen and (max-width: 1525px) {
+  .embark-on-adventure,
+  .frame-parent46 {
+    flex: 1;
+  }
+  .frame-parent45,
+  .prepare-for-journey {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 850px) {
+  .knowledgeable-and-fluent-container1 {
+    font-size: var(--font-size-11xl);
+  }
+  .frame-parent46 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .full-coverage-of-container2 {
+    font-size: var(--font-size-11xl);
+  }
+  .frame-parent47 {
+    flex-wrap: wrap;
+  }
+  .embark-on-adventure {
+    min-width: 100%;
+  }
+  .professional-english-speaking2 {
+    font-size: var(--font-size-11xl);
+  }
+  .frame-parent48 {
+    flex-wrap: wrap;
+  }
+  .full-coverage-of-container3 {
+    font-size: var(--font-size-11xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .full-coverage-of-container2,
+  .knowledgeable-and-fluent-container1 {
+    font-size: var(--font-size-3xl);
+    min-width: 100%;
+  }
+  .professional-english-speaking2 {
+    font-size: var(--font-size-3xl);
+  }
+  .professional-english-speaking-container {
+    min-width: 100%;
+  }
+  .full-coverage-of-container3 {
+    font-size: var(--font-size-3xl);
+  }
+}

@@ -1,0 +1,583 @@
+.back-icon1 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 100px;
+  object-fit: cover;
+}
+.back1 {
+  position: absolute;
+  top: 33px;
+  left: 79px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 133px;
+  height: 44px;
+  z-index: 1;
+}
+.back-group {
+  height: 100px;
+  flex: 1;
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.image-container {
+  width: 212px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xl);
+  box-sizing: border-box;
+}
+.day-serengeti-camping {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 1;
+}
+.dropdown-menu {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-35xl) var(--padding-18xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-81xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-heavy);
+}
+.itinerary1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.itinerary-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-33xl) var(--padding-48xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+}
+.day-12,
+.day-22 {
+  display: inline-block;
+  max-width: 100%;
+}
+.day-12,
+.day-22,
+.day-31,
+.day-32 {
+  position: relative;
+}
+.day-32 {
+  display: inline-block;
+  max-width: 100%;
+}
+.day-3-ngorongoro-crater-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-50xl);
+  max-width: 100%;
+}
+.day-13 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-1-arusha-to-serengeti-na-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.error-handler {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 79px;
+}
+.data-aggregator,
+.error-handler,
+.input-filter {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.input-filter {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-50xl);
+}
+.data-aggregator {
+  width: 1432px;
+  flex-direction: row;
+  padding: 0 var(--padding-33xl) var(--padding-54xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-18xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+.day-child1 {
+  margin-left: -194px;
+  margin-bottom: 72.89999999999964px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 121%;
+  flex-shrink: 0;
+}
+.frame-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 1492px;
+  height: 555.7px;
+}
+.start-your-adventure1 {
+  position: absolute;
+  top: 103.2px;
+  left: 105.3px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1280.5px;
+  height: 507.8px;
+  z-index: 1;
+}
+.rectangle-parent3 {
+  align-self: stretch;
+  height: 611px;
+  position: relative;
+}
+.day-23 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-2-serengeti-national-par-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xl);
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.day-inner1,
+.frame-parent15 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent15 {
+  width: 1492px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.day-inner1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 0 var(--padding-54xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day-child2 {
+  margin-left: -213px;
+  margin-bottom: 72.89999999999964px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 121%;
+  flex-shrink: 0;
+}
+.frame-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 1633px;
+  height: 532px;
+}
+.prepare-for-a2 {
+  position: absolute;
+  top: 58px;
+  left: 105px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1423px;
+  height: 556px;
+  z-index: 1;
+}
+.rectangle-parent4 {
+  align-self: stretch;
+  height: 614px;
+  position: relative;
+}
+.day-3-serengeti,
+.ngorongoro-conservation-area {
+  margin: 0;
+}
+.day-3-container {
+  margin: 0;
+  width: 1018px;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.day-3-ngorongoro-crater-wrapper {
+  width: 1596px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent16 {
+  width: 1633px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  max-width: 100%;
+}
+.day-inner2 {
+  width: 1805px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 var(--padding-54xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day-child3 {
+  margin-left: -194px;
+  margin-bottom: 72.89999999999964px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 121%;
+  flex-shrink: 0;
+}
+.day-33 {
+  margin: 0;
+  position: absolute;
+  top: 498.8px;
+  left: 44px;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.rectangle-textarea {
+  border: 1px solid var(--color-royalblue);
+  background-color: var(--color-blanchedalmond-200);
+  height: 399px;
+  width: 1582px;
+  outline: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  box-sizing: border-box;
+}
+.set-off-on1 {
+  position: absolute;
+  top: 64px;
+  left: 80px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1423px;
+  height: 556px;
+  z-index: 1;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day-3-ngorongoro-crater-group {
+  height: 620px;
+  width: 1582px;
+  position: relative;
+  max-width: 100%;
+}
+.day-inner3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.day-child4 {
+  margin-left: -194px;
+  margin-bottom: 72.89999999999964px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 121%;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.frame-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 1576px;
+  height: 578px;
+}
+.set-off-on2 {
+  position: absolute;
+  top: 120px;
+  left: 114px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1423px;
+  height: 556px;
+  z-index: 1;
+}
+.rectangle-parent6 {
+  height: 676px;
+  width: 1576px;
+  position: relative;
+  max-width: 100%;
+}
+.day-inner4,
+.day2 {
+  display: flex;
+  align-items: flex-start;
+}
+.day-inner4 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-20xl) 0;
+  box-sizing: border-box;
+  min-height: 8109px;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1325px) {
+  .dropdown-menu {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .day-3-ngorongoro-crater-parent {
+    gap: 34px 69px;
+  }
+  .data-aggregator {
+    padding-left: var(--padding-7xl);
+    padding-right: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .back1 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-serengeti-camping {
+    font-size: var(--font-size-31xl);
+  }
+  .itinerary1 {
+    font-size: var(--font-size-21xl);
+  }
+  .day-12,
+  .day-22,
+  .day-31,
+  .day-32 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-3-ngorongoro-crater-parent {
+    gap: 17px 69px;
+  }
+  .day-13 {
+    font-size: var(--font-size-21xl);
+  }
+  .error-handler {
+    gap: 39px 79px;
+  }
+  .input-filter {
+    gap: 34px 69px;
+  }
+  .data-aggregator {
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .start-your-adventure1 {
+    font-size: var(--font-size-11xl);
+    line-height: 51px;
+  }
+  .day-23 {
+    font-size: var(--font-size-21xl);
+  }
+  .day-inner1 {
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .prepare-for-a2 {
+    font-size: var(--font-size-11xl);
+    line-height: 51px;
+  }
+  .day-3-container {
+    font-size: var(--font-size-21xl);
+  }
+  .day-inner2 {
+    padding-bottom: var(--padding-28xl);
+    box-sizing: border-box;
+  }
+  .day-33 {
+    font-size: var(--font-size-21xl);
+  }
+  .set-off-on1,
+  .set-off-on2 {
+    font-size: var(--font-size-11xl);
+    line-height: 51px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .back1 {
+    font-size: var(--font-size-4xl);
+  }
+  .day-serengeti-camping,
+  .itinerary1 {
+    font-size: var(--font-size-11xl);
+  }
+  .itinerary-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .day-12,
+  .day-22,
+  .day-31,
+  .day-32 {
+    font-size: var(--font-size-3xl);
+  }
+  .day-13 {
+    font-size: var(--font-size-11xl);
+  }
+  .error-handler {
+    gap: 20px 79px;
+  }
+  .input-filter {
+    gap: 17px 69px;
+  }
+  .start-your-adventure1 {
+    font-size: var(--font-size-3xl);
+    line-height: 38px;
+  }
+  .day-23 {
+    font-size: var(--font-size-11xl);
+  }
+  .prepare-for-a2 {
+    font-size: var(--font-size-3xl);
+    line-height: 38px;
+  }
+  .day-3-container {
+    font-size: var(--font-size-11xl);
+  }
+  .day-inner2 {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .day-33 {
+    font-size: var(--font-size-11xl);
+  }
+  .set-off-on1,
+  .set-off-on2 {
+    font-size: var(--font-size-3xl);
+    line-height: 38px;
+  }
+}

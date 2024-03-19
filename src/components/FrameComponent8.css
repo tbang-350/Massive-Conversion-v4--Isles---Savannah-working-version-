@@ -1,0 +1,131 @@
+.frame-child57 {
+  margin-left: -444px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 166%;
+  flex-shrink: 0;
+}
+.explore-the-park-fully {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.start-your-adventure5 {
+  height: 576.4px;
+  width: 1151.8px;
+  position: relative;
+  line-height: 64px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.explore-the-park-fully-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  position: relative;
+  min-height: 633px;
+  max-width: 100%;
+}
+.day-26 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-2-serengeti-national-par-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent49,
+.frame-parent50 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent50 {
+  align-self: stretch;
+  gap: var(--gap-47xl);
+}
+.frame-parent49 {
+  position: absolute;
+  top: 3049px;
+  left: 0;
+  width: 100%;
+  padding: 0 var(--padding-270xl);
+  box-sizing: border-box;
+  gap: 54.89999999999963px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+@media screen and (max-width: 1225px) {
+  .frame-parent49 {
+    padding-left: var(--padding-125xl);
+    padding-right: var(--padding-125xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .start-your-adventure5 {
+    font-size: var(--font-size-7xl);
+    line-height: 51px;
+  }
+  .day-26 {
+    font-size: var(--font-size-21xl);
+  }
+  .frame-parent50 {
+    gap: 33px 66px;
+  }
+  .frame-parent49 {
+    gap: 27px 54.9px;
+    padding-left: var(--padding-53xl);
+    padding-right: var(--padding-53xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .start-your-adventure5 {
+    font-size: var(--font-size-lgi);
+    line-height: 38px;
+  }
+  .day-26 {
+    font-size: var(--font-size-11xl);
+  }
+  .frame-parent50 {
+    gap: 16px 66px;
+  }
+  .frame-parent49 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

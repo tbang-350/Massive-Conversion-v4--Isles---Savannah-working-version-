@@ -1,0 +1,155 @@
+.karibu-isles {
+  margin: 0;
+}
+.karibu-isles-container {
+  margin: 0;
+  height: 120px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 5;
+}
+.karibu-isles-savannah-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-24xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkorange);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  z-index: 5;
+}
+.build-your-safari {
+  position: absolute;
+  top: 26px;
+  left: 18px;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-nexa-black);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 6;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 83px;
+  flex: 1;
+  position: relative;
+  white-space: nowrap;
+}
+.frame-wrapper7 {
+  width: 394px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-24xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.embarkcomponent-child {
+  height: 222px;
+  width: 1920px;
+  position: relative;
+  background-color: var(--color-linen);
+  display: none;
+  max-width: 100%;
+}
+.embark-on-a1 {
+  margin: 0;
+  height: 55px;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.embarkcomponent,
+.frame-parent26,
+.frame-parent27 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.embarkcomponent {
+  background-color: var(--color-linen);
+  flex-direction: row;
+  padding: var(--padding-65xl) var(--padding-125xl) var(--padding-64xl);
+  box-sizing: border-box;
+}
+.frame-parent26,
+.frame-parent27 {
+  flex-direction: column;
+  gap: var(--gap-51xl);
+  font-size: var(--font-size-36xl);
+  color: var(--color-royalblue);
+}
+.frame-parent26 {
+  gap: var(--gap-4xl);
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1225px) {
+  .embarkcomponent {
+    padding-left: var(--padding-53xl);
+    padding-right: var(--padding-53xl);
+    box-sizing: border-box;
+  }
+  .frame-parent27 {
+    gap: 35px 70px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .karibu-isles-container {
+    font-size: var(--font-size-29xl);
+  }
+  .karibu-isles-savannah-wrapper {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .embark-on-a1 {
+    font-size: var(--font-size-25xl);
+  }
+  .embarkcomponent {
+    padding-left: var(--padding-17xl);
+    padding-right: var(--padding-17xl);
+    box-sizing: border-box;
+  }
+  .frame-parent27 {
+    gap: 17px 70px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .karibu-isles-container {
+    font-size: var(--font-size-17xl);
+  }
+  .frame-wrapper7 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .embark-on-a1 {
+    font-size: var(--font-size-14xl);
+  }
+}

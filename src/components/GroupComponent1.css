@@ -1,0 +1,171 @@
+.day-lake-manyara,
+.ngorongoro-camping,
+.tour {
+  margin: 0;
+}
+.day-lake-manyara-container {
+  height: 124.7px;
+  width: 589.4px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.d-a-y,
+.per-person5 {
+  position: relative;
+  display: inline-block;
+  z-index: 3;
+}
+.d-a-y {
+  min-width: 118.1px;
+  white-space: nowrap;
+}
+.per-person5 {
+  font-size: var(--font-size-mid);
+  min-width: 118.9px;
+}
+.d-a-y-l-o-d-g-e-s-a-f-a-r-i-s-parent,
+.frame-wrapper10 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.d-a-y-l-o-d-g-e-s-a-f-a-r-i-s-parent {
+  gap: 12.49999999999909px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.frame-wrapper10 {
+  padding: 24.100000000000364px 0 0;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.day-lake-manyara-ngorongoro-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.mask-group-icon4 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 2;
+}
+.frame-child36 {
+  height: 113.1px;
+  width: 835.5px;
+  position: relative;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-darkorange);
+  display: none;
+  max-width: 100%;
+}
+.view-this-trip4 {
+  height: 41.6px;
+  width: 336.7px;
+  position: relative;
+  font-size: var(--font-size-18xl);
+  font-family: var(--font-nexa-black);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-parent31,
+.rectangle-parent23 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-parent23 {
+  cursor: pointer;
+  border: 0;
+  padding: 35.899999999999636px var(--padding-xl) 35.600000000000364px
+    var(--padding-16xl);
+  background-color: var(--color-darkorange);
+  border-radius: var(--br-6xs);
+  flex-direction: row;
+  justify-content: center;
+}
+.rectangle-parent23:hover {
+  background-color: var(--color-chocolate);
+}
+.frame-parent31 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-35xl) 60.70000000000073px 56.19999999999891px
+    var(--padding-681xl);
+  position: relative;
+  gap: 132.20000000000073px;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1200px) {
+  .day-lake-manyara-ngorongoro-parent {
+    flex-wrap: wrap;
+  }
+  .frame-parent31 {
+    gap: 66px 132.2px;
+    padding-left: var(--padding-331xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .day-lake-manyara-container {
+    font-size: var(--font-size-11xl);
+  }
+  .d-a-y {
+    font-size: var(--font-size-13xl);
+  }
+  .view-this-trip4 {
+    font-size: var(--font-size-11xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .frame-parent31 {
+    gap: 33px 132.2px;
+    padding-left: var(--padding-156xl);
+    padding-top: var(--padding-16xl);
+    padding-bottom: var(--padding-18xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .day-lake-manyara-container {
+    font-size: var(--font-size-3xl);
+  }
+  .d-a-y {
+    font-size: var(--font-size-5xl);
+  }
+  .view-this-trip4 {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent31 {
+    gap: 17px 132.2px;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

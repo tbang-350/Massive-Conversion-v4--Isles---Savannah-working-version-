@@ -1,0 +1,109 @@
+.itinerary4 {
+  position: relative;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-nexa-black);
+  color: var(--color-royalblue);
+}
+.day-14,
+.day-25,
+.day-310 {
+  position: relative;
+  white-space: pre-wrap;
+}
+.day-25,
+.day-310 {
+  display: inline-block;
+  max-width: 100%;
+}
+.arrivalatserengetinationalpark {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+}
+.day-15 {
+  height: 50px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.day-serengeti-national-park1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.trip-itinerary-parent {
+  width: 1445px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-107xl);
+  max-width: 100%;
+}
+.trip-itinerary-parent-wrapper {
+  width: 1719px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-63xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -5px;
+  text-align: left;
+  font-size: var(--font-size-18xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+@media screen and (max-width: 1275px) {
+  .trip-itinerary-parent {
+    gap: 63px 126px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .itinerary4 {
+    font-size: var(--font-size-21xl);
+  }
+  .day-14,
+  .day-25,
+  .day-310 {
+    font-size: var(--font-size-11xl);
+  }
+  .arrivalatserengetinationalpark {
+    gap: 26px 53px;
+  }
+  .day-15 {
+    font-size: var(--font-size-21xl);
+  }
+  .trip-itinerary-parent {
+    gap: 31px 126px;
+  }
+  .trip-itinerary-parent-wrapper {
+    padding-bottom: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .itinerary4 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-14,
+  .day-25,
+  .day-310 {
+    font-size: var(--font-size-3xl);
+  }
+  .day-15 {
+    font-size: var(--font-size-11xl);
+  }
+  .trip-itinerary-parent {
+    gap: 16px 126px;
+  }
+}

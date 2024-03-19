@@ -1,0 +1,129 @@
+.back-icon5 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 100px;
+  object-fit: cover;
+}
+.back5 {
+  position: absolute;
+  top: 33px;
+  left: 79px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 133px;
+  height: 44px;
+  z-index: 1;
+}
+.back-parent3 {
+  width: 232px;
+  height: 100px;
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.day-lake-manyara1,
+.ngorongoro-camping-tour {
+  margin: 0;
+}
+.day-serengeti-camping-container3 {
+  margin: 0;
+  align-self: stretch;
+  height: 230px;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.explore-the-wonders {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.embark-on-an-container2 {
+  height: 361px;
+  flex: 1;
+  position: relative;
+  line-height: 50px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.private-safari-adventure {
+  width: 1085px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-light);
+}
+.day-serengeti-camping-tour-group {
+  width: 1863px;
+  flex-direction: column;
+  max-width: 1071%;
+  flex-shrink: 0;
+}
+.day-camping,
+.day-serengeti-camping-tour-group,
+.frame-parent51 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.day-camping {
+  width: 250px;
+  flex-direction: row;
+  padding: 0 var(--padding-19xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-81xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-heavy);
+}
+.frame-parent51 {
+  position: absolute;
+  top: 31px;
+  left: 55px;
+  width: 1865px;
+  flex-direction: column;
+  gap: var(--gap-6xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 850px) {
+  .back5 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-serengeti-camping-container3 {
+    font-size: var(--font-size-31xl);
+  }
+  .embark-on-an-container2 {
+    font-size: var(--font-size-7xl);
+    line-height: 40px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .back5 {
+    font-size: var(--font-size-4xl);
+  }
+  .day-serengeti-camping-container3 {
+    font-size: var(--font-size-11xl);
+  }
+  .embark-on-an-container2 {
+    font-size: var(--font-size-lgi);
+    line-height: 30px;
+  }
+}

@@ -1,0 +1,186 @@
+.day-materuni,
+.lake-manyara,
+.tarangire-serengeti {
+  margin: 0;
+}
+.day-materuni-tarangire-container {
+  height: 124.7px;
+  width: 536.2px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.per-person-price1 {
+  position: relative;
+  white-space: nowrap;
+  z-index: 3;
+}
+.per-person6 {
+  position: relative;
+  display: inline-block;
+  min-width: 118.9px;
+  z-index: 3;
+}
+.day-camp-safari1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base) 0 14.899999999999636px;
+  font-size: var(--font-size-mid);
+}
+.day-matuni-tarangire-serengeti-inner,
+.per-person-price-serengeti-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.per-person-price-serengeti-parent {
+  gap: 12.49999999999909px;
+}
+.day-matuni-tarangire-serengeti-inner {
+  padding: 24.100000000000364px 0 0;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.day-matuni-tarangire-serengeti {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.mask-group-icon5 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 2;
+}
+.frame-child37 {
+  height: 113.1px;
+  width: 835.5px;
+  position: relative;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-darkorange);
+  display: none;
+  max-width: 100%;
+}
+.view-this-trip5 {
+  height: 41.6px;
+  width: 336.7px;
+  position: relative;
+  font-size: var(--font-size-18xl);
+  font-family: var(--font-nexa-black);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent24 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-9xl) var(--padding-xl) 28.300000000000185px
+    var(--padding-16xl);
+  background-color: var(--color-darkorange);
+  width: 835.5px;
+  border-radius: var(--br-6xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  box-sizing: border-box;
+  min-height: 113px;
+  max-width: 100%;
+}
+.rectangle-parent24:hover {
+  background-color: var(--color-chocolate);
+}
+.day-matuni-tarangire-serengeti-parent,
+.trip-customize-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.day-matuni-tarangire-serengeti-parent {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-35xl) 49.099999999998545px 42.39999999999873px
+    var(--padding-681xl);
+  position: relative;
+  gap: 132.20000000000073px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.trip-customize-inner {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 13.700000000000728px;
+  text-align: left;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 1200px) {
+  .day-matuni-tarangire-serengeti {
+    flex-wrap: wrap;
+  }
+  .day-matuni-tarangire-serengeti-parent {
+    gap: 66px 132.2px;
+    padding-left: var(--padding-331xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .day-materuni-tarangire-container {
+    font-size: var(--font-size-11xl);
+  }
+  .per-person-price1 {
+    font-size: var(--font-size-13xl);
+  }
+  .view-this-trip5 {
+    font-size: var(--font-size-11xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .day-matuni-tarangire-serengeti-parent {
+    gap: 33px 132.2px;
+    padding-left: var(--padding-156xl);
+    padding-top: var(--padding-16xl);
+    padding-bottom: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .day-materuni-tarangire-container {
+    font-size: var(--font-size-3xl);
+  }
+  .per-person-price1 {
+    font-size: var(--font-size-5xl);
+  }
+  .view-this-trip5 {
+    font-size: var(--font-size-3xl);
+  }
+  .day-matuni-tarangire-serengeti-parent {
+    gap: 17px 132.2px;
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

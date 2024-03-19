@@ -1,0 +1,114 @@
+.itinerary8 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-18,
+.itinerary8 {
+  position: relative;
+}
+.day-28,
+.day-315,
+.day-316,
+.day-317,
+.day-318 {
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.day-319 {
+  position: relative;
+}
+.day-3-ngorongoro-crater-wrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.day-1-arusha-to-serengeti-na-parent,
+.heart-shape {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.day-1-arusha-to-serengeti-na-parent {
+  gap: var(--gap-50xl);
+  font-size: var(--font-size-18xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+.heart-shape {
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-35xl);
+}
+.day-19 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-1-arusha-to-serengeti-na-wrapper1,
+.star-shape {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.day-1-arusha-to-serengeti-na-wrapper1 {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-14xl);
+}
+.star-shape {
+  position: absolute;
+  top: 2536px;
+  left: 131px;
+  flex-direction: column;
+  gap: var(--gap-112xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+@media screen and (max-width: 825px) {
+  .itinerary8 {
+    font-size: var(--font-size-21xl);
+  }
+  .day-18,
+  .day-28,
+  .day-315,
+  .day-316,
+  .day-317,
+  .day-318,
+  .day-319 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-19 {
+    font-size: var(--font-size-21xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .itinerary8 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-18,
+  .day-28,
+  .day-315,
+  .day-316,
+  .day-317,
+  .day-318,
+  .day-319 {
+    font-size: var(--font-size-3xl);
+  }
+  .day-19 {
+    font-size: var(--font-size-11xl);
+  }
+}

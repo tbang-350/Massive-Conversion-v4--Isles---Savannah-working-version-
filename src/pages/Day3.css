@@ -1,0 +1,419 @@
+.back-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 100px;
+  object-fit: cover;
+}
+.back {
+  position: absolute;
+  top: 33px;
+  left: 79px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 133px;
+  height: 44px;
+  z-index: 1;
+}
+.back-parent {
+  width: 212px;
+  height: 100px;
+  position: relative;
+  cursor: pointer;
+  z-index: 1;
+}
+.camping-tour1,
+.day-serengeti1 {
+  margin: 0;
+}
+.day-serengeti-camping-container1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.day-serengeti-camping-tour-wrapper,
+.frame-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.day-serengeti-camping-tour-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-81xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-heavy);
+}
+.frame-parent2 {
+  width: 1016px;
+  flex-direction: column;
+  gap: var(--gap-mid);
+}
+.embark-on-an {
+  margin-block-start: 0;
+  margin-block-end: 13px;
+}
+.embark-on-an-container {
+  height: 361px;
+  width: 1039px;
+  position: relative;
+  line-height: 50px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.embark-on-an-exclusive-private-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-light);
+}
+.day-inner,
+.embark-on-an-exclusive-private-wrapper,
+.frame-parent1 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent1 {
+  width: 1089px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 47px;
+}
+.day-inner {
+  width: 1251px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-19xl);
+  color: var(--color-black);
+  font-family: var(--font-nexa-black);
+}
+.day-child {
+  margin-left: -155px;
+  margin-bottom: 81.89999999999964px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 116%;
+  flex-shrink: 0;
+  margin-top: -5px;
+}
+.frame-child4 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+}
+.start-your-adventure {
+  height: 510.8px;
+  width: 1423px;
+  position: relative;
+  line-height: 64px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.group-div {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  box-sizing: border-box;
+  position: relative;
+  min-height: 559px;
+  max-width: 100%;
+}
+.day-2 {
+  position: relative;
+  text-transform: uppercase;
+}
+.day-2-serengeti-national-par-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-parent3,
+.frame-section {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent3 {
+  width: 1658px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-107xl);
+}
+.frame-section {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-63xl);
+  box-sizing: border-box;
+  margin-top: -5px;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day-item {
+  margin-left: -155px;
+  margin-bottom: 129.89999999999964px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 116%;
+  flex-shrink: 0;
+  margin-top: -5px;
+}
+.day-3 {
+  position: absolute;
+  top: 552.8px;
+  left: 423px;
+  text-transform: uppercase;
+}
+.wildlife-awakening {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-royalblue);
+  box-sizing: border-box;
+  width: 1658px;
+  height: 484px;
+}
+.prepare-for-a {
+  position: absolute;
+  top: 99px;
+  left: 118px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1423px;
+  height: 556px;
+  z-index: 1;
+}
+.wildlife-awakening-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.wildlife-expedition-day {
+  height: 655px;
+  width: 1658px;
+  position: relative;
+  max-width: 100%;
+}
+.wildlife-expedition-day-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-8xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  margin-top: -5px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.group-icon {
+  margin-left: -286px;
+  width: 2230px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 134%;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.frame-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1658px;
+  height: 444.5px;
+}
+.set-off-on {
+  position: absolute;
+  top: 66.5px;
+  left: 117px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1423px;
+  height: 406.5px;
+  z-index: 1;
+}
+.rectangle-parent1 {
+  align-self: stretch;
+  height: 473px;
+  position: relative;
+}
+.day,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame-parent4 {
+  align-self: stretch;
+  height: 1009px;
+  padding: 0 var(--padding-112xl);
+  gap: 53.89999999999963px;
+  max-width: 100%;
+  margin-top: -5px;
+  text-align: center;
+  font-size: var(--font-size-18xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  padding: var(--padding-20xl) 0 137px;
+  min-height: 6986px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .frame-parent3 {
+    gap: 63px 126px;
+  }
+  .frame-parent4 {
+    padding-left: var(--padding-46xl);
+    padding-right: var(--padding-46xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .back {
+    font-size: var(--font-size-11xl);
+  }
+  .day-serengeti-camping-container1 {
+    font-size: var(--font-size-31xl);
+  }
+  .embark-on-an-container {
+    font-size: var(--font-size-7xl);
+    line-height: 40px;
+  }
+  .frame-parent1 {
+    gap: 23px 47px;
+  }
+  .start-your-adventure {
+    font-size: var(--font-size-11xl);
+    line-height: 51px;
+  }
+  .day-2 {
+    font-size: var(--font-size-21xl);
+  }
+  .frame-parent3 {
+    gap: 31px 126px;
+  }
+  .frame-section {
+    padding-bottom: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+  .day-3 {
+    font-size: var(--font-size-21xl);
+  }
+  .prepare-for-a,
+  .set-off-on {
+    font-size: var(--font-size-11xl);
+    line-height: 51px;
+  }
+  .frame-parent4 {
+    gap: 27px 53.9px;
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .back {
+    font-size: var(--font-size-4xl);
+  }
+  .day-serengeti-camping-container1 {
+    font-size: var(--font-size-11xl);
+  }
+  .embark-on-an-container {
+    font-size: var(--font-size-lgi);
+    line-height: 30px;
+  }
+  .start-your-adventure {
+    font-size: var(--font-size-3xl);
+    line-height: 38px;
+  }
+  .day-2 {
+    font-size: var(--font-size-11xl);
+  }
+  .frame-parent3 {
+    gap: 16px 126px;
+  }
+  .frame-section {
+    padding-bottom: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .day-3 {
+    font-size: var(--font-size-11xl);
+  }
+  .prepare-for-a,
+  .set-off-on {
+    font-size: var(--font-size-3xl);
+    line-height: 38px;
+  }
+}

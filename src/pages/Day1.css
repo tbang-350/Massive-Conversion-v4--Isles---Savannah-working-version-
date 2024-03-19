@@ -1,0 +1,647 @@
+.path-20-icon1,
+.path-24-icon {
+  position: absolute;
+  top: 8185px;
+  left: -605px;
+  width: 2898px;
+  height: 1083px;
+}
+.path-20-icon1 {
+  top: -634px;
+  left: -253.7px;
+  width: 1732.4px;
+  height: 2435.9px;
+}
+.frame-child6 {
+  position: absolute;
+  top: calc(50% - 841.05px);
+  left: calc(50% - 844.35px);
+  border-radius: var(--br-15xl);
+  background-color: var(--color-white);
+  border: 12px solid var(--color-blanchedalmond-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.frame-child7 {
+  height: 71.1px;
+  width: 71.1px;
+  position: relative;
+  z-index: 1;
+}
+.ground-transportation {
+  margin: 0;
+}
+.in-robust {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.ground-transportation-in-container {
+  height: 164.9px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 341px;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-parent6 {
+  width: 647.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 51.79999999999927px;
+  min-width: 647.2999999999993px;
+  max-width: 100%;
+}
+.frame-child8,
+.round-trip-airport-transfer {
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+}
+.frame-child8 {
+  height: 71.1px;
+  width: 71.1px;
+  z-index: 1;
+}
+.round-trip-airport-transfer {
+  align-self: stretch;
+  height: 82.5px;
+  text-transform: capitalize;
+  display: inline-block;
+  z-index: 2;
+}
+.roundtrip-airport-transfer-lab {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22.600000000000364px 0 0;
+  box-sizing: border-box;
+  min-width: 367px;
+  max-width: 100%;
+}
+.frame-parent7,
+.robust-x-safari-jeeper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent7 {
+  width: 708.2px;
+  justify-content: flex-start;
+  gap: 72.30000000000291px;
+  min-width: 708.2000000000007px;
+}
+.robust-x-safari-jeeper {
+  position: absolute;
+  top: 364.5px;
+  left: 68.4px;
+  width: 1490.8px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.excluded {
+  height: 82.5px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: 0;
+  z-index: 2;
+}
+.excluded-wrapper {
+  width: 237px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 1.4000000000014552px;
+  box-sizing: border-box;
+}
+.f-a-q-title,
+.path-22-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.1px;
+  height: 71.1px;
+}
+.f-a-q-title {
+  top: 32.6px;
+  left: 16.7px;
+  background-color: var(--color-darkorange);
+  width: 38.5px;
+  height: 5.8px;
+  z-index: 1;
+}
+.path-22-parent {
+  height: 71.1px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper1,
+.frame-wrapper2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  flex-direction: row;
+  opacity: 0.59;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.frame-wrapper1 {
+  width: 71.1px;
+  flex-direction: column;
+  padding: 9.899999999999636px 0 0;
+  box-sizing: border-box;
+}
+.flights-to-and,
+.international-airfare,
+.not-included-optional {
+  margin: 0;
+}
+.international-airfare-flight-container {
+  height: 164.9px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 859px;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.contact-icon-parent,
+.frame-parent8,
+.frame-parent9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent9 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 47.60000000000218px;
+  margin-top: -0.4px;
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.contact-icon-parent,
+.frame-parent8 {
+  flex-direction: column;
+}
+.frame-parent8 {
+  position: absolute;
+  top: 900px;
+  left: 86.6px;
+  width: 1439.7px;
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.contact-icon-parent {
+  width: 866.8px;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: 23.100000000000364px;
+}
+.path-22-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.1px;
+  height: 71.1px;
+}
+.travel-insurance {
+  position: absolute;
+  top: 32.7px;
+  left: 16.7px;
+  background-color: var(--color-darkorange);
+  width: 38.5px;
+  height: 5.8px;
+  z-index: 1;
+}
+.path-22-group {
+  height: 71.1px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper3 {
+  width: 71.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0.59;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.personal-funds-for {
+  margin: 0;
+}
+.personal-funds-for-container {
+  align-self: stretch;
+  height: 123.7px;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.english-speaking-guide,
+.frame-parent11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.english-speaking-guide {
+  flex: 1;
+  flex-direction: column;
+  padding: 24.700000000000728px 0 0;
+  box-sizing: border-box;
+  min-width: 733px;
+}
+.frame-parent11 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 46.00000000000364px;
+  flex-shrink: 0;
+}
+.path-22-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71.1px;
+  height: 71.1px;
+}
+.day-arusha-to-serengeti {
+  position: absolute;
+  top: 32.7px;
+  left: 16.7px;
+  background-color: var(--color-darkorange);
+  width: 38.5px;
+  height: 5.8px;
+  z-index: 1;
+}
+.path-22-container {
+  height: 71.1px;
+  flex: 1;
+  position: relative;
+}
+.frame-wrapper4 {
+  width: 71.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0.59;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 1;
+}
+.travel-insurance-sleeping {
+  align-self: stretch;
+  height: 82.5px;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  white-space: pre-wrap;
+  flex-shrink: 0;
+  debug_commit: 1cbd860;
+  z-index: 2;
+}
+.day-serengeti-national-park {
+  flex: 1;
+  flex-direction: column;
+  padding: 23.100000000000364px 0 0;
+  box-sizing: border-box;
+  min-width: 427px;
+}
+.adventure-funds,
+.day-serengeti-national-park,
+.frame-parent10,
+.frame-parent12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent12 {
+  width: 794.3px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: 46.00000000000364px;
+  flex-shrink: 0;
+  margin-top: -23.9px;
+}
+.adventure-funds,
+.frame-parent10 {
+  flex-direction: column;
+}
+.adventure-funds {
+  align-self: stretch;
+}
+.frame-parent10 {
+  position: absolute;
+  top: 1165.1px;
+  left: 86.6px;
+  width: 1244.3px;
+  gap: 26.299999999999272px;
+}
+.rectangle-parent2 {
+  align-self: stretch;
+  height: 1682.1px;
+  position: relative;
+  border-radius: var(--br-15xl);
+  background-color: var(--color-white);
+  border: 12px solid var(--color-blanchedalmond-100);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+  font-size: var(--font-size-18xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-xbold);
+}
+.itinerary {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-1,
+.itinerary {
+  position: relative;
+}
+.itinerary-parent,
+.second-travel-day {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.second-travel-day {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-8xs);
+  font-size: var(--font-size-18xl);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-nexa-light);
+}
+.itinerary-parent {
+  flex-direction: column;
+  gap: var(--gap-32xl);
+}
+.day-21 {
+  position: relative;
+  font-size: var(--font-size-18xl);
+  font-family: var(--font-nexa-light);
+  color: var(--color-dimgray-200);
+  white-space: pre-wrap;
+  display: inline-block;
+  max-width: 100%;
+}
+.frame-parent13,
+.frame-wrapper5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent13 {
+  flex: 1;
+  flex-direction: column;
+  gap: 68px;
+}
+.frame-wrapper5 {
+  width: 664px;
+  flex-direction: row;
+  padding: 0 var(--padding-7xl);
+  box-sizing: border-box;
+}
+.day-11 {
+  margin: 0;
+  width: 1049px;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.day-1-arusha-to-serengeti-na-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-3xl) 0 var(--padding-xl);
+}
+.frame-parent5 {
+  position: absolute;
+  top: 726px;
+  left: 116px;
+  width: 1688.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 146.44999999999982px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-royalblue);
+  font-family: var(--font-nexa-black);
+}
+.frame-child9 {
+  margin-left: -443px;
+  width: 2230px;
+  height: 482.1px;
+  position: relative;
+  object-fit: cover;
+  max-width: 166%;
+  flex-shrink: 0;
+}
+.day-serengeti2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-27xl);
+  background-color: var(--color-blanchedalmond-200);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 1343px;
+  height: 550.2px;
+}
+.prepare-for-a1 {
+  position: absolute;
+  top: 73.7px;
+  left: 87.4px;
+  line-height: 64px;
+  display: inline-block;
+  width: 1170.7px;
+  height: 509.3px;
+  z-index: 1;
+}
+.serengeti-itinerary {
+  align-self: stretch;
+  height: 583px;
+  position: relative;
+}
+.frame-parent14 {
+  position: absolute;
+  top: 4401px;
+  left: 0;
+  width: 100%;
+  height: 1131px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 288px;
+  box-sizing: border-box;
+  gap: 65.89999999999964px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-nexa-book);
+}
+.day1 {
+  width: 100%;
+  height: 5613px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1525px) {
+  .frame-parent6,
+  .frame-parent7 {
+    flex: 1;
+  }
+  .robust-x-safari-jeeper {
+    flex-wrap: wrap;
+  }
+  .day1,
+  .rectangle-parent2 {
+    height: auto;
+    min-height: 1682.1000000000004;
+  }
+  .day1 {
+    min-height: 5613;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .international-airfare-flight-container {
+    min-width: 100%;
+  }
+  .frame-parent14 {
+    padding-left: var(--padding-125xl);
+    padding-right: var(--padding-125xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .ground-transportation-in-container {
+    font-size: var(--font-size-11xl);
+  }
+  .frame-parent6 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .round-trip-airport-transfer {
+    font-size: var(--font-size-11xl);
+  }
+  .frame-parent7 {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+  .excluded,
+  .international-airfare-flight-container,
+  .personal-funds-for-container {
+    font-size: var(--font-size-11xl);
+  }
+  .english-speaking-guide {
+    min-width: 100%;
+  }
+  .travel-insurance-sleeping {
+    font-size: var(--font-size-11xl);
+  }
+  .day-serengeti-national-park {
+    min-width: 100%;
+  }
+  .itinerary {
+    font-size: var(--font-size-21xl);
+  }
+  .day-1,
+  .day-21 {
+    font-size: var(--font-size-11xl);
+  }
+  .day-11 {
+    font-size: var(--font-size-21xl);
+  }
+  .prepare-for-a1 {
+    font-size: var(--font-size-7xl);
+    line-height: 51px;
+  }
+  .frame-parent14 {
+    gap: 33px 65.9px;
+    padding-left: var(--padding-53xl);
+    padding-right: var(--padding-53xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ground-transportation-in-container {
+    font-size: var(--font-size-3xl);
+    min-width: 100%;
+  }
+  .round-trip-airport-transfer {
+    font-size: var(--font-size-3xl);
+  }
+  .roundtrip-airport-transfer-lab {
+    min-width: 100%;
+  }
+  .excluded,
+  .international-airfare-flight-container,
+  .personal-funds-for-container,
+  .travel-insurance-sleeping {
+    font-size: var(--font-size-3xl);
+  }
+  .itinerary {
+    font-size: var(--font-size-11xl);
+  }
+  .day-1,
+  .day-21 {
+    font-size: var(--font-size-3xl);
+  }
+  .day-11 {
+    font-size: var(--font-size-11xl);
+  }
+  .prepare-for-a1 {
+    font-size: var(--font-size-lgi);
+    line-height: 38px;
+  }
+  .frame-parent14 {
+    gap: 16px 65.9px;
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
